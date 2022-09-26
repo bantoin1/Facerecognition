@@ -1,4 +1,5 @@
-# This is a React App that reads a pictures and detects the face.
+# This is a React App that reads a pictures and detects the face. This program needs access to its backend. The link can be found here https://github.com/bantoin1/smart-brain-api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
